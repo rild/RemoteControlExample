@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RemoteControlExample</string>
+
+    <string name="rewind">Rewind</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="skip">Skip</string>
+</resources>
